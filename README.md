@@ -1,2 +1,1 @@
-# LVS-DR-Ansible
-LVS的DR模式  Ansible
+# LVS的DR模式并用Ansible配置
